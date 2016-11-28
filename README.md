@@ -1,6 +1,6 @@
 ## Twitter Map
 twittermap nodejs application deployed on EBS
-![alt tag](https://github.com/chickenPopcorn/twittermap/blob/master/twittermap.png)
+![alt tag](https://github.com/chickenPopcorn/twitterSentimentMap/blob/master/twittermap.png)
 
 The app is deployed by Elastic Beanstalk, and the streaming and Elasticsearch are on another instance. 
 Nginx is used to prevent public access to Elasticsearch.
