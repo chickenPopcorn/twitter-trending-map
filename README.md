@@ -7,6 +7,10 @@ Nginx is used to prevent public access to Elasticsearch.
 
 View the app: [Twitter Map](http://sample-env.pcchgwuwwk.us-east-1.elasticbeanstalk.com/)
 
+### Archtecture Diagram
+
+![alt tag](https://github.com/chickenPopcorn/twitterSentimentMap/blob/master/diagram.png)
+
 ####Streaming
 
 Reads a stream of tweets from the Twitter Streaming API. After fetching a new tweet, check to see if it has geo-location info and is in English.
